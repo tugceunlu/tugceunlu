@@ -2,7 +2,7 @@
 
 I research how adults learn with generative AI, and I build the tools to study it.
 
-- 🎓 Incoming M.A. student in **Adult Education and Management in Lifelong Education** at Julius-Maximilians-Universität Würzburg (from April 2027)
+- 🎓 M.A. student in **Adult Education and Management in Lifelong Education** at Julius-Maximilians-Universität Würzburg (from April 2027)
 - 🏫 B.Sc. in Computer Education and Instructional Technology, Middle East Technical University (METU)
 - 🔬 Interests: generative AI in adult and lifelong learning, AI literacy, self-directed learning, instructional design
 
